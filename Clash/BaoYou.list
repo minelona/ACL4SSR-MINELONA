@@ -1,1 +1,5 @@
 DOMAIN-SUFFIX,baoyou668.com
+
+# 小精灵/海贼王服务器IP
+IP-CIDR,101.24.23.0/24,no-resolve
+IP-CIDR,101.145.23.0/24,no-resolve
