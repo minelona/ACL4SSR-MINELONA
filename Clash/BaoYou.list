@@ -1,8 +1,9 @@
 DOMAIN-SUFFIX,baoyou668.com
+
+# 游戏后台
 DOMAIN-SUFFIX,update.allblackfire.com
 DOMAIN-SUFFIX,lza-by.bitgamestudio.com
 DOMAIN-SUFFIX,lza-baoyo.bitgamestudio.com
 
-# 小精灵/海贼王服务器IP
 IP-CIDR,101.47.23.0/24,no-resolve
 IP-CIDR,101.47.145.0/24,no-resolve
