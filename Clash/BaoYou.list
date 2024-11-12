@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,googleu.xyz
 DOMAIN-SUFFIX,obijht.xyz
 DOMAIN-SUFFIX,thiobj.xyz
 
+# AD
+DOMAIN-SUFFIX,appsflyer.com
+
 # 游戏后台
 DOMAIN-SUFFIX,lza-by.bitgamestudio.com
 DOMAIN-SUFFIX,lza-baoyo.bitgamestudio.com
