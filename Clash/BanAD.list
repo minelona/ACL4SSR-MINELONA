@@ -11,7 +11,7 @@ DOMAIN-KEYWORD,adsserving
 DOMAIN-KEYWORD,adsystem
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,applovin
-DOMAIN-KEYWORD,appsflyer
+# DOMAIN-KEYWORD,appsflyer
 DOMAIN-KEYWORD,domob
 DOMAIN-KEYWORD,duomeng
 DOMAIN-KEYWORD,dwtrack
@@ -116,7 +116,7 @@ DOMAIN-SUFFIX,appboy.com
 DOMAIN-SUFFIX,appdriver.cn
 DOMAIN-SUFFIX,appjiagu.com
 DOMAIN-SUFFIX,applifier.com
-DOMAIN-SUFFIX,appsflyer.com
+# DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,atdmt.com
 DOMAIN-SUFFIX,baifendian.com
 DOMAIN-SUFFIX,banmamedia.com
