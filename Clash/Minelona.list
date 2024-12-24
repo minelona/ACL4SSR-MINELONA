@@ -1,3 +1,7 @@
 DOMAIN-SUFFIX,con.minelona.cn
 DOMAIN-SUFFIX,kube.minelona.cn
 DOMAIN-SUFFIX,sub-api.minelona.cn
+DOMAIN-SUFFIX,email.minelona.cn
+DOMAIN-SUFFIX,mail.minelona.cn
+DOMAIN-SUFFIX,smtp.minelona.cn
+DOMAIN-SUFFIX,imap.minelona.cn
